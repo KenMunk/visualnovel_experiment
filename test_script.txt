@@ -1,0 +1,13 @@
+this is a test resource
+will it write more than one line
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+test success if it reads this line?
